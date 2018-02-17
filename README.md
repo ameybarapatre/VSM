@@ -1,7 +1,7 @@
 # VSM
 Virtual Stock Market is an online event where trading is done online with virtual points over companies and forex .The winner is decided over the networth of the individuals at the end of the event .
 
-Upuntil 2014 the stock prices of the companies were manually set and randomnly decided at the will of the organisers.
+Up until 2014 the stock prices of the companies were manually set and randomnly decided at the whim of the organisers.
 This led to wide disparity in the networth of the people participating in the event,
 This algorithm implementation project aids decision making about the company stock prices and attempts leveling the networth of the players.
 
